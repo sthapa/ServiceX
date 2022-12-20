@@ -19,10 +19,10 @@ nav:
     - 'Developer Guide':
         - Architecture: development/architecture.md
         - Contributing: development/contributing.md
-theme:
-    name: readthedocs
-    highlightjs: true
-    hljs_languages:
-        - yaml
+#theme:
+#    name: readthedocs
+#    highlightjs: true
+#    hljs_languages:
+#        - yaml
 plugins:
     - mkdocs-jupyter
